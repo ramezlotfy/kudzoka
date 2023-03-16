@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#site-logo{
+    width: 100px;
+    height: 50px;
+}
+.align-center{
+    align-items: center;
+}
+.align-end{
+    align-items:end;
+}
+.align-left{
+    align-items: left;
+}
+.flex{
+    display: flex;
+}
+.flex-row{
+    flex-direction: row;
+}
+.flex-colomn{
+    flex-direction: column;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.space-around{
+    justify-content: space-around;
+}
+.justify-center{
+    justify-content: center;
+}
+.list-style-none{
+    list-style: none;
+}
+.margin-x-10px{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#first-banner{
+    background: url("../media/blue_bg.png") no-repeat;
+    background-size: contain;
+}
+.width-100{
+    width: 100%;
+}
+.width-50{
+    width: 50%;
+}
+.width-25px{
+    width: 25px;
+}
+.height-25px{
+    height: 25px;
+}
+.padding-x-20px{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.padding-y-20px{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.padding-y-10px{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.padding-y-5px{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.padding-y-50px{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.padding-x-50px{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.margin-y-10px{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.padding-x-70px{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.active{
+    border-bottom: 3px solid purple;
+}
+.margin-left-auto{
+    margin-left: auto;
+}
+.margin-y-auto{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.margin-top-auto{
+    margin-top: auto;
+}
+#landing-banner{
+    background: url("../media/landing_bg.png") no-repeat right;
+    background-size: 576px;
+    background-position: right;
+}
+#banner-image-container img{
+    width: 200px;
+}
+.text-center{
+    text-align: center;
+}
+#banner-heading{
+    color: #616161;
+    font-size: 2rem;
+}
+.width-33{
+    width: 33%;
+}
+.width-30{
+    width: 30%;
+}
+.width-40{
+    width: 40%;
+}
+.width-60{
+    width: 60%;
+}
+.width-45{
+    width: 45%;
+}
+.width-55{
+    width: 55%;
+}
+.height-120vh{
+    height: 120vh;
+}
+.height-100vh{
+    height: 100vh;
+}
+.height-80vh{
+    height: 80vh;
+}
+#second-page{
+    background: url("../media/second_section_.png");
+}
+.color-grey{
+    color: #616161;
+}
+.color-bale-grey{
+    color: #616161;
+}
+.font-2{
+    font-size: 1.2rem;
+}
+.font-small{
+    font-size: 0.9rem;
+}
+.font-extra-small{
+    font-size: 0.6rem;
+}
+#why-choose-container{
+    background: url("../media/why_kudzoka_bg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 220px;
+    width: 268px;
+}
+.upper-case{
+    text-transform: uppercase;
+}
+.text-white{
+    color: white;
+}
+#page-footer {
+    background: url("../media/Group\ 1131.png");
+    background-size: 1658px;
+    background-position: -30px -50px;
+    height: 565px;
+}
+#footer-img{
+    width: 530px;
+}
+.background-white{
+    background: white;
+}
+.no-border{
+    border: none;
+}
+.no-outline{
+    outline: none;
+}
+.border-radius{
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
